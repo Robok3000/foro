@@ -49,7 +49,7 @@ html {
 
 body {
   color: #fff;
-  background-color: #FFF;
+  background-color: #000;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -72,7 +72,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Source Code Pro', monospace;
   font-weight: 400;
-  color: #18A20F;
+  color: #00FF00;
   letter-spacing: -.025rem;
 }
 
